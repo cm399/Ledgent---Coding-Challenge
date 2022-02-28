@@ -1,7 +1,12 @@
 # Ledgent---Coding-Challenge
 
-Open the copy.js using VSCode. 
-Install Node on your machine. If you have installed Node, you don't reinstall it. 
-Open a terminal on your VSCode. 
-Run "node copy.js" 
-You will see the result in the console. 
+1. Open the copy.js using VSCode. 
+
+2. Install Node on your machine. If you have installed Node, you don't reinstall it. 
+
+3. Open a terminal on your VSCode. 
+
+4. Run "node copy.js" 
+
+5. You will see the result in the console. 
+
